@@ -1,1 +1,1 @@
-# 134834
+this task is meant to introduce the student to the working basics of the Git Source VersioningEcosystem. It will introduce (through practical) the working of the git tool, the online GitHubrepository management system, and how to synchronize the codebase between the two.
